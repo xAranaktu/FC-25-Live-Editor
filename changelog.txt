@@ -1,0 +1,31 @@
+v25.1.4:
+    - Added Import & Generate Miniface option in player editor
+    - Added new morale level (Complacent)
+    - Fixed loading modified legacy files
+    - Fixed editing player contract role
+    - Female teams that have the exact same name as their male counterpart will now have an added "(Female)" suffix to the team name in LE
+    - Youth Squad will now appear as "YOUR_TEAM_NAME Youth Academy" in LE and will use your senior team crest.
+    - Some minor fixes and additions in LE settings
+
+v25.1.3:
+    - Work with Title Update 2
+
+v25.1.2:
+    - Added to player editor:
+        - Release Clause
+        - Fitness
+        - Sharpness
+        - Injury
+        - Morale
+        - Form
+    - Player names can now be edited in the player editor.
+    - Added popup asking for saving unapplied changes when closing the player or team editor window
+    - Fixed Live Editor not processing hotkeys after alt-tabbing.
+
+v25.1.1:
+    - Added support for 3rd party overlays. Tested with OBS, Discord and Rivatuner. I hope it will also work with other common overlays.
+    - Added option to edit hotkeys in the launcher settings.
+    - Changed default year from 2023 to 2024 (used for player age and other dates calculation).
+
+v25.1.0:
+    - First working version.
