@@ -1,3 +1,7 @@
+v25.1.5:
+    - Fixed editting "Is Transfer Listed" and "Is Loan Listed" in player editor
+    - Added Player Transfers (Career Mode only for now)
+
 v25.1.4:
     - Added Import & Generate Miniface option in player editor
     - Added new morale level (Complacent)
