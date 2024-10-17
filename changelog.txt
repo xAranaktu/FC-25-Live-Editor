@@ -1,5 +1,10 @@
+v25.1.6:
+    - Added player roles in the player editor
+    - Added player age to player advanced filters
+    - Player Loans via LE will no longer suck up your whole transfer budget.
+
 v25.1.5:
-    - Fixed editting "Is Transfer Listed" and "Is Loan Listed" in player editor
+    - Fixed editing "Is Transfer Listed" and "Is Loan Listed" in the player editor
     - Added Player Transfers (Career Mode only for now)
 
 v25.1.4:
