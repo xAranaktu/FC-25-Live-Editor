@@ -1,3 +1,8 @@
+v25.1.7:
+    - Added LUA Engine.
+    - Releasing female players from their club will now move them to Female Free Agents instead of Male Free Agents team.
+    - Players now can be transferred outside of career mode.
+
 v25.1.6:
     - Added player roles in the player editor
     - Added player age to player advanced filters
