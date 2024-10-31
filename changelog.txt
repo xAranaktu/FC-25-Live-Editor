@@ -1,3 +1,11 @@
+v25.1.8:
+    - Added option to create job offer in team editor
+    - Added "Misc Features":
+        - "Reveal Player Data"
+        - "Generate Youth Academy Report"
+        - "Perfect Timed Shots"
+        - "Unsackable"
+
 v25.1.7:
     - Added LUA Engine.
     - Releasing female players from their club will now move them to Female Free Agents instead of Male Free Agents team.
