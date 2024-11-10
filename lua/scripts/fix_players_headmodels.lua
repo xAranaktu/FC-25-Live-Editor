@@ -4,7 +4,7 @@
 
 require 'imports/core/common'
 
--- List up to date with Title Update 3
+-- List up to date with Title Update 4
 local valid_headmodels = {
     [27] = true,    -- Joe Cole
     [42] = true,    -- Gareth Southgate
@@ -615,6 +615,7 @@ local valid_headmodels = {
     [172871] = true,    -- Jan Vertonghen
     [172879] = true,    -- Sokratis Papastathopoulos
     [172953] = true,    -- Adrian Mariappa
+    [172962] = true,    -- Victor Moses
     [173030] = true,    -- Oscar Trejo
     [173210] = true,    -- Claudio Marchisio
     [173373] = true,    -- Sergio Romero
@@ -654,6 +655,7 @@ local valid_headmodels = {
     [177922] = true,    -- Kamil Grosicki
     [178005] = true,    -- Rui Patricio
     [178086] = true,    -- Adan Garrido
+    [178088] = true,    -- Juan Mata
     [178091] = true,    -- Stefano Okaka
     [178213] = true,    -- Etienne Capoue
     [178224] = true,    -- Javier Hernandez
@@ -1107,6 +1109,7 @@ local valid_headmodels = {
     [198641] = true,    -- Kenneth Zohore
     [198683] = true,    -- Manolo Gabbiadini
     [198706] = true,    -- Luis Alberto
+    [198710] = true,    -- James Rodriguez
     [198715] = true,    -- Sergio Leon
     [198717] = true,    -- Wilfried Zaha
     [198719] = true,    -- Nathan Redmond
@@ -1240,6 +1243,7 @@ local valid_headmodels = {
     [201884] = true,    -- Robbie Brady
     [201887] = true,    -- Daniel Johnson
     [201895] = true,    -- Diego Fagundez
+    [201908] = true,    -- Andre Wisdom
     [201911] = true,    -- Will Keane
     [201942] = true,    -- Roberto Firmino
     [201953] = true,    -- Juan Sanchez Mino
@@ -1329,6 +1333,7 @@ local valid_headmodels = {
     [203796] = true,    -- Felipe Gutierrez
     [203841] = true,    -- Nick Pope
     [203884] = true,    -- Koffi Djidji
+    [203895] = true,    -- Alejandro Pozuelo
     [203910] = true,    -- Anthony Knockaert
     [204024] = true,    -- Christoph Kramer
     [204077] = true,    -- Mbaye Niang
@@ -3333,6 +3338,7 @@ local valid_headmodels = {
     [245237] = true,    -- Ignacio Saavedra
     [245238] = true,    -- Javi Sanchez
     [245253] = true,    -- Leandrobarreiro Martins
+    [245278] = true,    -- Tomas Tavares
     [245279] = true,    -- Sergio Reguilon
     [245286] = true,    -- Jan Zamburek
     [245336] = true,    -- Maximilian Kilman
@@ -3926,6 +3932,7 @@ local valid_headmodels = {
     [264209] = true,    -- Lamare Bogarde
     [264221] = true,    -- Arjany Martha
     [264240] = true,    -- Gavi
+    [264260] = true,    -- Brad Young
     [264293] = true,    -- Habib Diarra
     [264298] = true,    -- Conor Bradley
     [264299] = true,    -- Owen Beck
@@ -4640,6 +4647,7 @@ local valid_headmodels = {
     [277866] = true,    -- Thiniba Samoura
     [277887] = true,    -- Max Finkgrafe
     [277911] = true,    -- Jamie Lee Napier
+    [277951] = true,    -- Lily Yohannes
     [277963] = true,    -- Rantala Jutta
     [277966] = true,    -- Olga Ahtinen
     [278016] = true,    -- Murillo Santiago Costa Dos Santos
@@ -4654,7 +4662,7 @@ local valid_headmodels = {
     [278239] = true,    -- Jimmy Jay Morgan
     [278819] = true,    -- Ross Mccausland
     [278911] = true,    -- Tristan Gooijer
-    [278912] = true     -- Julian Brandes
+    [278912] = true    -- Julian Brandes
 }
 
 -- Get Players Table
