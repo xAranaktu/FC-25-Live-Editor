@@ -1,3 +1,8 @@
+v25.2.0:
+    - Added Match-Fixing
+    - Added League Table in Team Editor
+    - Added Player Season Statistics in Player Editor
+
 v25.1.9:
     - Added "Transfers" (transfer history with undo option)
     - Added all bodytypes to the player editor
