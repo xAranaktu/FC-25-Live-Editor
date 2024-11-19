@@ -2,7 +2,7 @@ v25.2.1:
     - Match-Fixing now work also on teams in other leagues
     - Fixed player goal assignment in match-fixed games
     - Fixed changing stadium in team editor
-    - Added "Match Setup" to "Miscalaneous Features" with following options:
+    - Added "Match Setup" to "Miscellaneous Features" with following options:
         - Override Stadium
         - Override Weather
         - Override Crowd Attendance
