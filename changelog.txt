@@ -1,3 +1,16 @@
+v25.2.2:
+    - Added 48 new injury ids
+    - Added new fields in player editor:
+        - skinsurfacepack
+        - skinmakeup
+        - eyedetail
+        - skincomplexion
+        - lipcolor
+        - muscularitycode
+        - undershortstyle
+    - Fixed inability to assign "Bellingham Cut-out Socks" to players
+    - Fixed "Match-Fixing"
+
 v25.2.1:
     - Match-Fixing now work also on teams in other leagues
     - Fixed player goal assignment in match-fixed games
