@@ -1,3 +1,7 @@
+v25.2.3:
+    - Added formation editor in team editor
+    - Added player team selection bias in player editor
+
 v25.2.2:
     - Added 48 new injury ids
     - Added new fields in player editor:
