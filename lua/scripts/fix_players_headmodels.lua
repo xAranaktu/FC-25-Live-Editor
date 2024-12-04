@@ -6,7 +6,7 @@ require 'imports/core/common'
 
 -- List up to date with Title Update 6
 local valid_headmodels {
-        [27],    -- Joe Cole
+    [27],    -- Joe Cole
     [42],    -- Gareth Southgate
     [51],    -- Alan Shearer
     [240],    -- Roy Keane
