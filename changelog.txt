@@ -1,3 +1,12 @@
+v25.2.4:
+    - Match-fixed fixtures will now show as "FIXED" in team editor fixtures window.
+    - Fixed invalid advancements in two-leg cup games when using match-fixing. (I hope so)
+    - Fixed game crash occuring when trying to open formation editor in career mode of a team with no entry in "cm_mentalities" database table.
+    - Quality of life changes:
+        - Added keyboard shortcuts in player & team editor (CTRL+S, CTRL+Z)
+        - You can now close player/team editor window by pressing "ESC" key
+        - You can now filter lists by pressing "ENTER" key
+
 v25.2.3:
     - Added formation editor in team editor
     - Added player team selection bias in player editor
