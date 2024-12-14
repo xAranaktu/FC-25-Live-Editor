@@ -1,6 +1,6 @@
--- This script will fix head models:
--- If player doesn't have the headmodel then generic face will be used
--- If player have headmodel then it will be applied
+--   This script will fix head models:
+--   If player doesn't have the headmodel then generic face will be used
+--   If player have headmodel then it will be applied
 
 require 'imports/core/common'
 
