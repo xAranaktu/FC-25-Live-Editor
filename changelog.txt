@@ -1,3 +1,6 @@
+v25.2.5:
+    - Added Transfer Bans in Team Editor & LUA API
+
 v25.2.4:
     - Match-fixed fixtures will now show as "FIXED" in team editor fixtures window.
     - Fixed invalid advancements in two-leg cup games when using match-fixing. (I hope so)
