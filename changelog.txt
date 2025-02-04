@@ -1,3 +1,7 @@
+v25.2.8:
+    - Work with Title Update 9
+    - Fixed playstyles not being saved by VPRO Memory System
+
 v25.2.7:
     - Added VPRO Memory System
     - Fixed minor bugs
