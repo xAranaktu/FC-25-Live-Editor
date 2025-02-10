@@ -1,3 +1,8 @@
+v25.2.9:
+    - Added option picker for tattoos in player editor
+    - Added to LUA API:
+        - HTTP Requests (https://github.com/xAranaktu/FC-25-Live-Editor/wiki/LUA-API-v2-HTTP-Requests)
+
 v25.2.8:
     - Work with Title Update 9
     - Fixed playstyles not being saved by VPRO Memory System
