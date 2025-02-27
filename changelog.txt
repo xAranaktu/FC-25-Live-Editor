@@ -1,3 +1,12 @@
+v25.3.0:
+    - Added option to change team name in team editor
+    - Team names now loaded from loc database.
+    - Fixed game crash in tournament mode when trying to start a tournament with more than one team chosen.
+    - Added to LUA API:
+        - Gameplay Attribulator (https://github.com/xAranaktu/FC-25-Live-Editor/wiki/LUA-API-v2-Gameplay-Attribulator) 
+        - Aardvark Manager (https://github.com/xAranaktu/FC-25-Live-Editor/wiki/LUA-API-v2-Aardvark-Manager) 
+        - Game Localization Manager (https://github.com/xAranaktu/FC-25-Live-Editor/wiki/LUA-API-v2-Game-Localization-Manager) 
+
 v25.2.9:
     - Added option picker for tattoos in player editor
     - Added to LUA API:
