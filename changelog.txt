@@ -1,3 +1,7 @@
+v25.3.1:
+    - Added Low Driven Shot PlayStyle
+    - Work with Title Update 10
+
 v25.3.0:
     - Added option to change team name in team editor
     - Team names now loaded from loc database.
