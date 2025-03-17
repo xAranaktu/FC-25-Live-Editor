@@ -1,3 +1,6 @@
+v25.3.2:
+    - Work with Title Update 11
+
 v25.3.1:
     - Added Low Driven Shot PlayStyle
     - Work with Title Update 10
