@@ -1,5 +1,6 @@
 {
     "game_ver": {
+        "1.0.120.62184": "TU12",
         "1.0.120.39585": "TU11",
         "1.0.120.7387": "TU10",
         "1.0.119.18738": "TU9.1",
@@ -21,15 +22,16 @@
             "link": "https://www.patreon.com/posts/124546384"
         },
          "bronze": {
-            "ver": "v25.3.1",
-            "link": "https://www.patreon.com/posts/124197301"
+            "ver": "v25.3.2",
+            "link": "https://www.patreon.com/posts/124546384"
         },
         "public": {
-            "ver": "v25.3.1",
-            "link": "https://www.patreon.com/posts/124197301"
+            "ver": "v25.3.2",
+            "link": "https://www.patreon.com/posts/124546384"
         }
     },
     "compatibility": {
+        "1.0.120.62184": [ "v25.3.2", "v25.3.2" ],
         "1.0.120.39585": [ "v25.3.2", "v25.3.2" ],
         "1.0.120.7387": [ "v25.3.1", "v25.3.1" ],
         "1.0.119.18738": [ "v25.2.8", "v25.3.0" ],
