@@ -1,3 +1,7 @@
+v25.3.3:
+    - Added option to create a new player with custom ID. You can also create player from preset (easy way to add icons into existing career)
+    - Minor bug fixes
+
 v25.3.2:
     - Work with Title Update 11
 
