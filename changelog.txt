@@ -1,3 +1,10 @@
+v25.3.4:
+    - Added option to delete player
+    - Added option to clone existing player
+    - Added option to export existing player data to preset file
+    - Added option to import data from preset to existing player
+    - You can now add custom IDs to option picker
+
 v25.3.3:
     - Added option to create a new player with custom ID. You can also create player from preset (easy way to add icons into existing career)
     - Minor bug fixes
