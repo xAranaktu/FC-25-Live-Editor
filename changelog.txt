@@ -1,3 +1,16 @@
+v25.3.6:
+    - Added Legacy File Browser
+    - Updated player presets with new players and FUT cards
+    - Added "Player Value" column to "Players"
+    - Added "Value To Release Clause Ratio" column to "Players"
+    - Added "Player Wage" column to "Players"
+    - Added "Players Worth" column to "Teams"
+    - Added option to change transfer budget of CPU managed teams
+    - LUA API:
+        - Renamed "GetTransferBudget" function to "GetUserTransferBudget"
+        - Renamed "SetTransferBudget" function to "SetUserTransferBudget"
+        - Added "GetCPUTransferBudget" and "SetCPUTransferBudget" functions
+
 v25.3.5:
     - Fixed crash when trying to transfer/loan player
     - Fixed crash when trying to create player
