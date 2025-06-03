@@ -1,3 +1,11 @@
+v25.3.7:
+    - Work with Title Update 15
+    - Added "Don't Pause on AltTab" to "Miscellaneous Features->Gameplay->Other"
+    - Added "Reveal YA OVR & POT" to "Miscellaneous Features->Youth Academy"
+    - Added "Min Age For Promotion" to "Miscellaneous Features->Youth Academy"
+    - Disabled in-game function responsible for auto moving the mouse cursor to the top left corner for no reason
+    - Updated player presets with new players and FUT cards
+
 v25.3.6:
     - Added Legacy File Browser
     - Updated player presets with new players and FUT cards
