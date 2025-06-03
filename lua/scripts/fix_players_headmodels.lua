@@ -4,7 +4,7 @@
 
 require 'imports/core/common'
 
--- List up to date with Title Update 12
+-- List up to date with Title Update 15
 local valid_headmodels = {
     [27] = true, -- Joe Cole
     [42] = true, -- Gareth Southgate
@@ -549,6 +549,7 @@ local valid_headmodels = {
     [146777] = true, -- Michel Sanchez
     [146947] = true, -- Mikel Vesga
     [146952] = true, -- Ivan Cuellar
+    [146954] = true, -- Gabi Fernandez
     [150418] = true, -- Mario Gomez
     [150516] = true, -- Lukas Podolski
     [150525] = true, -- Paolo Guerrero
@@ -1536,6 +1537,7 @@ local valid_headmodels = {
     [207804] = true, -- Amarii Bell
     [207807] = true, -- Ryan Fraser
     [207835] = true, -- Ademilson Braga Bispo Junior
+    [207858] = true, -- Dom Dwyer
     [207862] = true, -- Matthias Ginter
     [207863] = true, -- Felipe Monteiro
     [207865] = true, -- Marcos Aoas Correa
@@ -3604,6 +3606,7 @@ local valid_headmodels = {
     [247116] = true, -- Mengwen Li
     [247131] = true, -- Alfonso Espino
     [247140] = true, -- Josh Benson
+    [247172] = true, -- Duran Jhon
     [247181] = true, -- Gonzalo Plata
     [247182] = true, -- Lucas Silva Melo
     [247204] = true, -- Emerson Leite De Souza Junior
@@ -3749,6 +3752,7 @@ local valid_headmodels = {
     [251530] = true, -- Nuno Tavares
     [251545] = true, -- Darko Churlinov
     [251566] = true, -- Gabriel Martinelli
+    [251570] = true, -- Cherki Rayan
     [251573] = true, -- Renan Lodi
     [251617] = true, -- Gigovic Armin
     [251637] = true, -- Andoni Iraola Sagarna
@@ -5086,7 +5090,7 @@ local valid_headmodels = {
     [279542] = true, -- Max Moerstedt
     [279709] = true, -- Lucas Lopes Beraldo
     [279866] = true, -- Jorde Julie
-    [279867] = true -- Dana Foederer
+    [279867] = true  -- Dana Foederer
 }
 
 --   Get Players Table
