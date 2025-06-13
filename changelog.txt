@@ -1,3 +1,12 @@
+v25.3.8:
+    - Added "Speedhack" to "Miscellaneous Features"
+    - Added "Disable negotiation status check" to "Miscellaneous Features->Player Contract"
+    - Added "Always allow transfer & loan approach" to "Miscellaneous Features->Transfer HUB"
+    - Added "15 Players Per Report" to "Miscellaneous Features->Youth Academy"
+    - Added "Mission doesn't cost anything" to "Miscellaneous Features->Youth Academy"
+    - Added "Allow multiple scouts in the same country" to "Miscellaneous Features->Youth Academy"
+    - Updated player presets with new FUT cards
+
 v25.3.7:
     - Work with Title Update 15
     - Added "Don't Pause on AltTab" to "Miscellaneous Features->Gameplay->Other"
