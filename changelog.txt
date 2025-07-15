@@ -1,3 +1,7 @@
+v25.4.0:
+    - Added "Scouts" & "Coaches" Tabs in Team Editor (user team only)
+    - Added option allowing to change coach staff capacity to max 20 slots.
+
 v25.3.9:
     - Added "CPU vs CPU" to "Miscellaneous Features" -> "Gameplay" -> "Other"
     - Added to "Player Editor" -> "Other" (available only for players in team managed by user):
