@@ -1,3 +1,10 @@
+v25.4.1:
+    - Added:
+        - "Override Fixture Time" to "Miscellaneous Features" -> "Match Setup"
+        - "Force Player Tier" to "Miscellaneous Features" -> "Youth Academy"
+    - "Reveal YA Player OVR & POT" renamed to "Reveal YA Player Data" (now it will also reveal player attributes)
+    - Fixed "purple colors" on AMD GPUs
+
 v25.4.0:
     - Added "Scouts" & "Coaches" Tabs in Team Editor (user team only)
     - Added option allowing to change coach staff capacity to max 20 slots.
