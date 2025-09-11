@@ -1,3 +1,20 @@
+v25.4.2:
+    - Added to "Player Editor" -> "Other":
+        - "Never Tired"
+    - Added to "Miscellaneous Features" -> "Gameplay" -> "User Team":
+        - "Unlimited Subs"
+        - "Never Tired Players"
+    - Added to "Miscellaneous Features" -> "Gameplay" -> "Home Team" & "Away Team":
+        - "CPU Unlimited Subs"
+        - "CPU Disabled Subs"
+        - "Tired Players"
+        - "Never Tired Players"
+        - "Goals Scored"
+    - Added to "Miscellaneous Features" -> "Career Mode" -> "Player Career"
+        - "Unlock All Playstyles Slots"
+        - "Agent Objectives Bypass"
+        - "VPRO 999 Skill Points"
+
 v25.4.1:
     - Added:
         - "Override Fixture Time" to "Miscellaneous Features" -> "Match Setup"
