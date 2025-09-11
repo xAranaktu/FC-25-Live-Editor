@@ -28,8 +28,8 @@
     },
     "le_ver": {
         "silver": {
-            "ver": "v25.4.1",
-            "link": "https://www.patreon.com/posts/135847330"
+            "ver": "v25.4.2",
+            "link": "https://www.patreon.com/posts/138658042"
         },
          "bronze": {
             "ver": "v25.4.1",
@@ -68,6 +68,7 @@
         "1.0.115.53355": [ "v25.1.0", "v25.1.2" ]
     }
 }
+
 
 
 
